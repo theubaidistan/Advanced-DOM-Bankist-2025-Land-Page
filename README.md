@@ -61,8 +61,8 @@ No additional build tools or dependencies required.
 
 **Muhammad Ubaid**
 
-- 🌐 [Portfolio](#)
-- 📧 [Contact](#)
+- 🌐 [Portfolio](https://portfolio-2025-flax.vercel.app/)
+- 📧 [Contact](https://www.linkedin.com/in/muhammad-ubaid-164a98278/)
 
 ## 🪪 License
 
