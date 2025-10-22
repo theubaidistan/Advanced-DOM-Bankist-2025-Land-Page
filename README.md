@@ -64,7 +64,7 @@ No additional build tools or dependencies required.
 - 🌐 [Portfolio](https://portfolio-2025-flax.vercel.app/)
 - 📧 [Contact](https://www.linkedin.com/in/muhammad-ubaid-164a98278/)
 
-## 🪪 License
+## © License
 
 This project is for educational and portfolio purposes only.
 
